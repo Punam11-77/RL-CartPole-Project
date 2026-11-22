@@ -28,6 +28,7 @@ This project explores Reinforcement Learning (RL) using the CartPole balancing t
 • Installed NumPy, Matplotlib, and Pygame
 • Tested CartPole environment setup
 
+## Structure
 
 RL_CartPole_Project/
 │
