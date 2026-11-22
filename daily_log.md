@@ -45,7 +45,7 @@ Developed a better understanding of PPO and its suitability for the CartPole bal
 Successfully prepared the project development environment for further implementation
 ...
 
-## Day 5 (3 h)
+## Day 5 (3,5 h)
 ## Library Installation and trouble shooting
 •Installed Gymnasium.
 •Installed Stable-Baselines3.
