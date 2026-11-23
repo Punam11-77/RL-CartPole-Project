@@ -61,3 +61,7 @@ RL_CartPole_Project/
 │
 └── screenshots/
 
+
+<img width="777" height="701" alt="image" src="https://github.com/user-attachments/assets/a5f90331-453d-49ca-aed1-286e7a5ac9ba" />
+
+
