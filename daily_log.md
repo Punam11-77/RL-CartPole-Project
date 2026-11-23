@@ -57,7 +57,20 @@ Successfully prepared the project development environment for further implementa
 
 ## Progress
 Core reinforcement learning libraries have been installed successfully and the environment is ready for CartPole experimentation and PPO training.
+...
 
+## Day 6 (3 h)
+## PPO Agent Training
+•Created a PPO training script using Stable-Baselines3.
+•Initialized the CartPole-v1 environment.
+•Used the MlpPolicy neural network provided by Stable-Baselines3.
+•Trained the agent for 10,000 timesteps.
+•Observed training statistics and policy updates during execution.
+•Saved the trained model for future testing and evaluation.
+
+## Outcome
+Successfully completed the first PPO training run and generated a trained CartPole agent capable of learning
+from environment interactions.
 
 
 
