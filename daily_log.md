@@ -73,8 +73,26 @@ Successfully completed the first PPO training run and generated a trained CartPo
 from environment interactions.
 
 
+## Day 7 (3 h)
 
 <img width="808" height="458" alt="image" src="https://github.com/user-attachments/assets/b1bf4fc7-ab37-4ccc-9a12-5d4803ce7731" />
+
+## PPO Training Evaluation
+•Reviewed PPO training results.
+•Analysed training statistics generated during learning.
+•Investigated model loading and serialization issues.
+•Verified that PPO training completed successfully.
+•Continued experimentation with CartPole and Stable-Baselines3.
+
+## Outcome
+The PPO training workflow was successfully executed. Training metrics were produced and learning behaviour was observed. Further work is required to evaluate saved models.
+
+<img width="595" height="618" alt="image" src="https://github.com/user-attachments/assets/80043770-937a-4606-8118-d2f7854ada58" />
+
+## Status
+Gymnasium-based CartPole environment has been successfully tested and PPO training has been completed. However, PyBullet-specific implementation tasks, including loading cartpole.urdf, joint-state access, and Pygame visualization, are still pending due to PyBullet installation issues. These tasks will be completed in the next phase of the project.
+
+
 
 
 
