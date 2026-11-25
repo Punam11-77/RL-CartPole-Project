@@ -64,9 +64,10 @@ RL_CartPole_Project/
 
 <img width="777" height="701" alt="image" src="https://github.com/user-attachments/assets/a5f90331-453d-49ca-aed1-286e7a5ac9ba" />
 
-
-
-
+## PPO agent successfully trained
 
 <img width="808" height="458" alt="image" src="https://github.com/user-attachments/assets/1e1e3fae-58ab-4de4-90ed-4bad0824430f" />
 
+A PPO agent was successfully trained using Stable-Baselines3 in the CartPole environment. Training statistics such as policy loss, value loss and timestep progress were generated. Model serialization requires further investigation, but the reinforcement learning workflow and training process have been verified successfully.
+
+<img width="790" height="625" alt="image" src="https://github.com/user-attachments/assets/18a70f5a-8072-4227-a331-1c40094796e8" />
