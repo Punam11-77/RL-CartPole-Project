@@ -92,6 +92,10 @@ The PPO training workflow was successfully executed. Training metrics were produ
 ## Status
 Gymnasium-based CartPole environment has been successfully tested and PPO training has been completed. However, PyBullet-specific implementation tasks, including loading cartpole.urdf, joint-state access, and Pygame visualization, are still pending due to PyBullet installation issues. These tasks will be completed in the next phase of the project.
 
+## PyBullet Setup
+Successfully installed PyBullet.
+Verified PyBullet installation using a connection test.
+Confirmed that the PyBullet physics engine can be initialized successfully.
 
 
 
