@@ -106,6 +106,20 @@ Confirmed that the PyBullet physics engine can be initialized successfully.
 <img width="1186" height="871" alt="image" src="https://github.com/user-attachments/assets/98412964-78e3-4eec-aa3a-726a02dcb3a0" />
 
 
+## Day 7 (3 h)
+Progress
+Installed PyBullet and Pygame
+Loaded cartpole.urdf using PyBullet DIRECT mode
+Retrieved joint states with getJointState()
+Advanced physics using stepSimulation()
+Applied cart movement using velocity control
+Created Pygame visualization
+Implemented keyboard control (left/right)
+Added scene reset functionality
+Tested random-action demonstration
+
+### Status: Completed
+
 
 
 
