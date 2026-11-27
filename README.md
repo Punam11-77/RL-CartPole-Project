@@ -74,3 +74,6 @@ RL_CartPole_Project/
 A PPO agent was successfully trained using Stable-Baselines3 in the CartPole environment. Training statistics such as policy loss, value loss and timestep progress were generated. Model serialization requires further investigation, but the reinforcement learning workflow and training process have been verified successfully.
 
 <img width="790" height="625" alt="image" src="https://github.com/user-attachments/assets/18a70f5a-8072-4227-a331-1c40094796e8" />
+
+## PyGame complete 2D
+<img width="1152" height="851" alt="image" src="https://github.com/user-attachments/assets/73e8b104-a072-413e-ac30-60b19c102614" />
