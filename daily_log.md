@@ -97,6 +97,11 @@ Successfully installed PyBullet.
 Verified PyBullet installation using a connection test.
 Confirmed that the PyBullet physics engine can be initialized successfully.
 
+## getJointState() ra stepSimulation() successfully complete
+
+<img width="623" height="588" alt="image" src="https://github.com/user-attachments/assets/1e2dae55-f7a0-44b3-8eb4-e84ed3c8a4ae" />
+
+
 
 
 
