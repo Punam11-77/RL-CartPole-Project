@@ -147,6 +147,49 @@ A tested custom CartPole environment with clearly defined observation space, act
 
 <img width="1444" height="626" alt="image" src="https://github.com/user-attachments/assets/94cf380a-fd9f-4078-a304-b75c5a1bb9e9" />
 
+## Day 9 (8 h)
+# PPO Policy Training
+
+## Tasks Completed
+Installed Stable-Baselines3 and Gymnasium.
+Integrated the custom CartPole environment with PPO.
+Created a PPO MlpPolicy training script.
+Trained the PPO agent using Stable-Baselines3.
+Monitored rewards and training performance.
+Saved the trained PPO model.
+
+## Deliverables
+PPO training script
+Saved PPO model
+
+# Evaluation and Demonstration
+## Tasks Completed
+Loaded the trained PPO model.
+Evaluated agent performance in the CartPole environment.
+Demonstrated the trained policy using Pygame visualization.
+Compared PPO performance with random actions.
+Collected evaluation observations.
+Finalized project documentation and deliverables.
+
+## Deliverables
+Evaluation script
+Pygame demonstration
+Controller comparison results
+Final documentation
+
+
+
+
+
+
+
+## Day 10 (6 h)
+
+
+
+
+
+## Day 11 ( 5 h)
 
 
 
