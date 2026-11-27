@@ -106,7 +106,7 @@ Confirmed that the PyBullet physics engine can be initialized successfully.
 <img width="1186" height="871" alt="image" src="https://github.com/user-attachments/assets/98412964-78e3-4eec-aa3a-726a02dcb3a0" />
 
 
-## Day 8 (3 h)
+## Day 8 (6 h)
 Progress
 Installed PyBullet and Pygame
 Loaded cartpole.urdf using PyBullet DIRECT mode
@@ -122,6 +122,28 @@ Tested random-action demonstration
 
 <img width="1111" height="872" alt="image" src="https://github.com/user-attachments/assets/360727d4-a546-4227-83b0-50588f9c09a1" />
 
+ ## Define RL Environment 
+
+ Created a custom CartPole environment using PyBullet.
+Implemented Gymnasium-style reset() and step() functions.
+Defined observation space:
+Cart Position
+Cart Velocity
+Pole Angle
+Pole Angular Velocity
+Defined discrete action space:
+Action 0 = Move Left
+Action 1 = Move Right
+Implemented reward function (+1 reward per surviving step).
+Added termination conditions:
+Cart position exceeds ±2.4
+Pole angle exceeds ±0.21 radians
+Episode length reaches 500 steps
+Tested environment using random actions.
+Verified observation generation, action handling, reward calculation, and reset functionality.
+
+## Deliverable
+A tested custom CartPole environment with clearly defined observation space, action space, reward function, reset logic, and episode termination logic.
 
 
 
