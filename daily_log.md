@@ -102,6 +102,10 @@ Confirmed that the PyBullet physics engine can be initialized successfully.
 <img width="623" height="588" alt="image" src="https://github.com/user-attachments/assets/1e2dae55-f7a0-44b3-8eb4-e84ed3c8a4ae" />
 
 
+## PyGame Window run
+<img width="1186" height="871" alt="image" src="https://github.com/user-attachments/assets/98412964-78e3-4eec-aa3a-726a02dcb3a0" />
+
+
 
 
 
