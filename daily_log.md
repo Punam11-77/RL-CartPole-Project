@@ -145,6 +145,8 @@ Verified observation generation, action handling, reward calculation, and reset 
 ## Deliverable
 A tested custom CartPole environment with clearly defined observation space, action space, reward function, reset logic, and episode termination logic.
 
+<img width="1444" height="626" alt="image" src="https://github.com/user-attachments/assets/94cf380a-fd9f-4078-a304-b75c5a1bb9e9" />
+
 
 
 
